@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-!"C:\Users\acer\OneDrive\Documents\keerthana vlsi.jpg"
+![WhatsApp Image 2024-10-21 at 11 35 38_06141359](https://github.com/user-attachments/assets/03e6f687-645d-461e-94cc-221cf3253599)
 
 
 
@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-!"C:\Users\acer\OneDrive\Documents\WhatsApp Image 2024-10-26 at 10.24.42_0582b269.jpg"
+![WhatsApp Image 2024-10-21 at 11 35 38_0b63b47e](https://github.com/user-attachments/assets/db10f998-81bf-4a4a-a967-1a4176072dea)
 
 iv)	Creating the new test cell view
 
@@ -78,7 +78,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-!"C:\Users\acer\OneDrive\Documents\WhatsApp Image 2024-10-26 at 10.24.43_cf9b4454.jpg"
+[Screenshot 2024-10-21 084427](https://github.com/user-attachments/assets/416d7bfd-fa15-4e8f-901d-7142312d1cdb)
 
 
  
@@ -93,14 +93,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-!"C:\Users\acer\OneDrive\Documents\WhatsApp Image 2024-10-26 at 10.24.43_c5d0cf68.jpg"
+![WhatsApp Image 2024-10-21 at 11 37 05_9810a39d](https://github.com/user-attachments/assets/74400695-394c-4fd6-bc49-557b67338244)
 
 
 For Transient Analysis Settings and Output
  
- !"C:\Users\acer\OneDrive\Documents\WhatsApp Image 2024-10-26 at 10.24.44_8e30af41.jpg"
+ ![WhatsApp Image 2024-10-21 at 11 36 18_bc86b914](https://github.com/user-attachments/assets/f915df4e-b071-445e-8792-1e3b64fd72bf)
 
- !"C:\Users\acer\OneDrive\Documents\WhatsApp Image 2024-10-26 at 10.24.45_017e2127.jpg"
+ ![WhatsApp Image 2024-10-21 at 11 46 00_0b14978b](https://github.com/user-attachments/assets/d288efa3-e6d9-4a14-945a-1e5c7818a814)
 
 
 Results:
